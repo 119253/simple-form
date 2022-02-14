@@ -16,25 +16,11 @@ This is a simple form which asks for personal details and subbmits them to a dat
 - MySQL
 ## Features
 
-**Customer**
-- Product search by name product ID or category
-- Sign up system with validation for duplicate accounts
-- Login system with encrypted password validation
-- Add items to cart
-- Delete items from cart
-- Edit quantity in cart
-- Submit basket (to be reviewed by admin)
-**Admin Dashboard**
-  - Total Sales £
-  - Number of products 
-  - Number of users
-  - Monthly sales report chart
-  - Sales history (Name, date, products, total, transaction ID)
-  - Users list with CRUD operations
-  - Products list with CRUD operations
-  - Category list with CRUD operations
-
-
+**Form**
+- Email
+- Name
+- Password
+- Gender
 
 
 ## Screenshots
