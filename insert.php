@@ -16,7 +16,7 @@
         // servername => localhost
         // username => root
         // password =>
-        // database name => customer
+        // database name => staff
         $conn = mysqli_connect("localhost", "root", "", "customer");
           
         // Check connection
